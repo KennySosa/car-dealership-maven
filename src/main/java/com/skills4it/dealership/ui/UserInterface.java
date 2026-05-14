@@ -37,7 +37,7 @@ public class UserInterface {
     private void init() {
         this.dealership = fileManager.getDealership();
     }
-//HELLOE AGAIN HI AND AGAIN
+//HELLO
     private void displayHeader() {
         System.out.println();
         System.out.println("=============================================");
