@@ -39,7 +39,7 @@ public class UserInterface {
     private void displayHeader() {
         System.out.println();
         System.out.println("=============================================");
-        System.out.println("WELCOME TO THE BEST : ");
+        System.out.println("WELCOME TO THE BEST OF THE BEST : ");
         System.out.println(dealership.getName());
         System.out.println(dealership.getAddress() + " | " + dealership.getPhone());
         System.out.println("=============================================");
